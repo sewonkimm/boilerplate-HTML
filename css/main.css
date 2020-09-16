@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/*
+ * 시각적으로 보이지 않게 하고, 공간도 차지하지 않음.
+ */
+
+.hidden {
+  display: none !important;
+}
+
+/*
+ * 시각적으로 보이지 않지만, 공간 차지.
+ */
+
+.invisible {
+  visibility: hidden;
+}
+
+/*
+ * Clearfix
+ * 
+ * For modern browsers
+ * 1. 자손에 float 속성을 적용하면 부모 overflow 속성에 hidden 키워드를 적용합니다. (One True Layout 방식)
+ * 2. 또는 clear 속성에 both 키워드 적용합니다.
+ */
+
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+/* 
+ * 반응형 웹을 위한 media query (mobile first)
+ * IE9부터 지원
+ */
+
+@media screen and (min-width: 768px) and (max-width: 959px) {
+  /* Tablet */
+}
+
+@media screen and (min-width: 960px) {
+  /* Desktop */
+}
