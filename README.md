@@ -27,11 +27,17 @@
 
 ## CSS
 
+- Reset CSS
 - 반응형 웹을 위한 media query
 
 ## Bootstrap 4
 
 - [Bootstrap documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+## 작업환경 세팅
+
+1. 사용되는 이미지 Assets 폴더에 정리
+2. 사용되는 Font import
+3. Reset CSS : box-sizing, margin, a, button, input 등...
 
 ## Author
 
