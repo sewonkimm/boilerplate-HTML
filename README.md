@@ -33,7 +33,7 @@
 
 ## Bootstrap 4
 
-- [Bootstrap documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Bootstrap documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/) (v4.4)
 ## 작업환경 
 
 1. 사용되는 이미지 `assets` 폴더에 정리
