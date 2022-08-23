@@ -10,15 +10,16 @@
 ## Basic structure
 
 ```
-.
-├── index.html
+📁
+├── html
+│   ├── index.html
+│   └── 404.html
 ├── css
-│   └── main.css
+│   ├── main.css
+│   └── 404.css
 ├── js
 │   └── main.js
-├── img
-├── 404.html
-└── favicon.ico
+└── assets
 ```
 
 ## HTML5
@@ -30,11 +31,11 @@
 - Reset CSS
 - 반응형 웹을 위한 media query
 
-## 작업환경 세팅
+## 작업환경 
 
-1. 사용되는 이미지 Assets 폴더에 정리
+1. 사용되는 이미지 `assets` 폴더에 정리
 2. 사용되는 Font import
-3. Reset CSS : box-sizing, margin, a, button, input 등...
+3. [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) 적용 : box-sizing, margin, a, button, input 등...
 
 ## Author
 
