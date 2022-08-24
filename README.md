@@ -17,7 +17,7 @@
 
 👤 **sewonkimm**
 
-- Website: https://sewonkimm.github.io/
+- Website: https://sewonkimm-github-io.vercel.app/
 - Github: [@sewonkimm](https://github.com/sewonkimm)
 
 Give a ⭐️ if this project helped you!
